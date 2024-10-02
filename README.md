@@ -1,8 +1,9 @@
 
-```markdown
+
 # Mixed Messages
 
-**Mixed Messages** is a fun project that generates random messages by selecting random elements from predefined arrays. This project demonstrates basic JavaScript concepts, including arrays, functions, and the randomization process.
+**Mixed Messages** is a fun project that generates random messages by selecting random elements from predefined arrays.
+This project demonstrates basic JavaScript concepts, including arrays, functions, and the randomization process.
 
 ## Features
 
