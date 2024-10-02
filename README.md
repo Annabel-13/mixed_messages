@@ -36,7 +36,7 @@ Once you open the project in your browser, simply click the button to generate a
 
 Here are a screenshot of the project:
 
-- ![Screenshot 1]([https://github.com/Annabel-13/mixed_messages/blob/main/screenshots/screenshot1.png](https://github.com/Annabel-13/mixed_messages/blob/main/screenshot1.png))
+ ![Screenshot 1](https://github.com/Annabel-13/mixed_messages/blob/main/screenshot1.png)
 
 
 
